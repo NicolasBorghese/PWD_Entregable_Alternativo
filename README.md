@@ -1,7 +1,7 @@
 <div align="center">
 Programación Web Dinámica 2023
 
-# <a href="http://localhost/PWD_Grupo2_Entrega_01/">Grupo 02 Entrega 01</a>
+# <a href="http://localhost/PWD_Entregable_Alternativo/">PWD Entregable Alternativo</a>
 
 ## Integrantes
 
